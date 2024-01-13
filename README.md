@@ -1,9 +1,10 @@
 # parity-function
-8-bit data set for the two-class classification problem of the parity function
+
+## 8-bit data set for the two-class classification problem of the parity function
 
 The parity function is a generalization of the XOR function. It takes
 N binary input values, coded as x ∈ {0, 1} and returns 0 when having a even number of ones
-in x and 1 when it contains an odd number of ones. More formally, f : {0, 1}^N → {0, 1}, where the
+in x and 1 when it contains an odd number of ones. More formally, f : {0, 1}<sup>N</sup> → {0, 1}, where the
 solution of the discrete equation x · x = 2n + m : n ∈ N, m ∈ {0, 1} decides the output of the function
 f (x) = m.
 
