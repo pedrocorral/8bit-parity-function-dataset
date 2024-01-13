@@ -1,4 +1,4 @@
-# Parity function
+# Parity function data set
 
 ## 8-bit data set for the two-class classification problem of the *parity function*
 
